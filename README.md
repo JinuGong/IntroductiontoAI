@@ -16,6 +16,7 @@ AI 강의용 파이썬 입문 시리즈. 각 챕터는 독립된 노트북이며
 | 08  | [함수](08_functions/) | `def`, 매개변수, `return`, 스코프, `lambda`, 재귀 |
 | 09  | [파일 입출력](09_file_io/) | `open`, `with`, `csv` 모듈, URL 읽기 |
 | 10  | [Pandas](10_pandas/) | `DataFrame`, `read_csv`, 슬라이싱, 결측값 처리 |
+| 11  | [GitHub 협업](11_github_collaboration/) | 브랜치, PR, 충돌 해결, 일상 시나리오 8개 |
 
 ## 🚀 시작하기
 
